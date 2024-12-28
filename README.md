@@ -1,6 +1,6 @@
 # Olá, meu nome é Ryan Oliveira
 ### Software Engineer | Java | C# | HTML | React.js | CSS | MySQL | User Experience  
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ryandoliveira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryandoliveira&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryandoliveira&hide_progress=true)
