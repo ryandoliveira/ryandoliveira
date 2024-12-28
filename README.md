@@ -20,7 +20,7 @@
 ---
 
 ## 🖥️ Sobre Mim  
-Apaixonado por linguagens de programação e desenvolvimento de software, busco oportunidades que me possibilitem colocar em prática e aprimorar meus conhecimentos na área de TI. Tenho curiosidade por novas tecnologias emergentes e um forte interesse em contribuir e compartilhar o que aprendi no ambiente educacional, aplicando isso no ambiente profissional.  
+Apaixonado por linguagens de programação e desenvolvimento de software, busco oportunidades que me possibilitem colocar em prática e aprimorar meus conhecimentos na área de TI. Tenho curiosidade por novas tecnologias e um forte interesse em contribuir e compartilhar o que aprendi no ambiente educacional, aplicando isso no ambiente profissional.  
 
 Minhas principais habilidades incluem:  
 - Desenvolvimento de Software  
