@@ -1,6 +1,6 @@
 # Ryan Oliveira
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 ### Software Engineer | Java | C# | HTML | React.js | CSS | MySQL | User Experience  
 
 ---
