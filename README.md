@@ -71,13 +71,13 @@ Minhas principais habilidades incluem:
 - Manutenção e correção de código  
 - Desenvolvimento de interfaces com foco em UX  
 - Desenvolvimento full-stack  
-- Criação de animações JavaScript  
+- Banco de dados com MySQL
+- POO utilizando Java ou C#
 
 ---
 
 ## 🚀 Objetivos  
-Estou sempre em busca de novos desafios e oportunidades de crescimento. Meu foco é construir soluções de impacto no setor de tecnologia, contribuindo com minha experiência e aprendendo com as novas conexões que construo ao longo do caminho.  
-
+Estou sempre em busca de novos desafios e oportunidades de crescimento. Meu objetivo é conseguir entrar no mercado de trabalho em uma vaga de estágio ou junior para aprofundar meus conhecimentos e aplica-los em um ambiente profissional e colaborativo
 ---
 
 ## 🌐 Entre em Contato  
