@@ -81,6 +81,6 @@ Estou sempre em busca de novos desafios e oportunidades de crescimento. Meu foco
 ---
 
 ## 🌐 Entre em Contato  
-📧 **E-mail:** ryan.oliveira@example.com  
-💼 **LinkedIn:** [linkedin.com/in/ryan-oliveira](https://linkedin.com/in/ryan-oliveira)  
-📂 **Portfólio:** [github.com/ryan-oliveira](https://github.com/ryan-oliveira)  
+📧 **E-mail:** ryandoliveira@hotmail.com  
+💼 **LinkedIn:** [linkedin.com/in/ryan-oliveira](https://www.linkedin.com/in/ryan-oliveira-2b54092a1/)  
+📂 **Portfólio:** [github.com/ryan-oliveira](https://meu-portfolio1-2025.vercel.app/)  
