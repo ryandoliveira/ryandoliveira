@@ -77,7 +77,7 @@ Minhas principais habilidades incluem:
 ---
 
 ## 🚀 Objetivos  
-Estou sempre em busca de novos desafios e oportunidades de crescimento. Meu objetivo é conseguir entrar no mercado de trabalho em uma vaga de estágio ou junior para aprofundar meus conhecimentos e aplica-los em um ambiente profissional e colaborativo
+Estou sempre em busca de novos desafios e oportunidades de crescimento. Meu objetivo é conseguir entrar no mercado de trabalho em uma vaga de estágio ou junior para aprofundar meus conhecimentos e aplica-los em um ambiente profissional onde eu possa agregar aos meus colegas de equipe e vice-versa
 ---
 
 ## 🌐 Entre em Contato  
