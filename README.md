@@ -1,86 +1,66 @@
-# Olá, meu nome é Ryan Oliveira
-### Software Engineer | Java | C# | HTML | React.js | CSS | MySQL | User Experience  
+# Olá! Eu sou Ryan Oliveira 👋
 
+### Formado em ADS | Interesse em QA, Desenvolvimento Web e Dados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryandoliveira&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryandoliveira&hide_progress=true)
-
-
-
-<div>
- 
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-  </div>
-
-
- 
-          
+Atualmente direcionando minha carreira para Qualidade de Software (QA), testes funcionais e automação de testes, combinando conhecimentos em desenvolvimento web com análise e validação de sistemas.
 
 ---
 
-## 🖥️ Sobre Mim  
-Apaixonado por linguagens de programação e desenvolvimento de software, busco oportunidades que me possibilitem colocar em prática e aprimorar meus conhecimentos na área de TI. Tenho curiosidade por novas tecnologias e um forte interesse em contribuir e compartilhar o que aprendi no ambiente educacional, aplicando isso no ambiente profissional.  
+## 🚀 Sobre Mim
 
-Minhas principais habilidades incluem:  
-- Desenvolvimento de Software  
-- User Experience (UX)  
-- Documentação técnica  
-- Aprendizado contínuo  
+Sou formado em Análise e Desenvolvimento de Sistemas e possuo interesse em áreas relacionadas a QA, qualidade de software, automação de testes e análise de dados.
 
----
+Tenho experiência acadêmica e prática com desenvolvimento web utilizando JavaScript, React e APIs REST, além de estudos em testes funcionais e automação E2E com Cypress.
 
-## 🛠️ Habilidades Técnicas  
-
-**Linguagens e Frameworks:**  
-- C#  
-- Java  
-- HTML, CSS, JavaScript  
-- React.js  
-- XML  
-
-**Desenvolvimento Web:**  
-- HTML5, CSS3, JavaScript  
-- Framework Bootstrap  
-
-**Banco de Dados:**  
-- MySQL  
-
-**Versionamento de Código:**  
-- Git e GitHub  
-
-**Outros Conhecimentos:**  
-- Python (análise de dados e machine learning)  
+Busco oportunidades para evoluir profissionalmente em ambientes colaborativos, contribuindo com visão analítica, organização e melhoria contínua de sistemas e processos.
 
 ---
 
-## 🧠 Competências  
+## 🛠️ Tecnologias e Ferramentas
 
-**Soft Skills:**  
-- Comunicação  
-- Raciocínio lógico  
-- Resolução de problemas  
-- Organização  
-- Trabalho em equipe  
-- Adaptabilidade  
-- Orientação ao cliente  
-- Gerenciamento de tempo  
-- Pensamento estratégico  
-
-**Hard Skills:**  
-- Manutenção e correção de código  
-- Desenvolvimento de interfaces com foco em UX  
-- Desenvolvimento full-stack  
-- Banco de dados com MySQL
-- POO utilizando Java ou C#
+* JavaScript
+* React.js
+* Cypress
+* C#
+* HTML5 & CSS3
+* Bootstrap
+* APIs REST
+* Power BI
+* Git & GitHub
 
 ---
 
-## 🚀 Objetivos  
-Estou sempre em busca de novos desafios e oportunidades de crescimento. Meu objetivo é conseguir entrar no mercado de trabalho em uma vaga de estágio ou junior para aprofundar meus conhecimentos e aplica-los em um ambiente profissional onde eu possa agregar aos meus colegas de equipe e vice-versa
+## 📚 Atualmente estudando
+
+* Automação de testes E2E com Cypress
+* Boas práticas de QA
+* Estruturação de cenários de testes
+* Melhoria contínua e análise de processos
+
 ---
 
-## 🌐 Entre em Contato  
-📧 **E-mail:** ryandoliveira@hotmail.com  
-💼 **LinkedIn:** [linkedin.com/in/ryan-oliveira](https://www.linkedin.com/in/ryan-oliveira-2b54092a1/)  
-📂 **Portfólio:** [github.com/ryan-oliveira](https://meu-portfolio1-2025.vercel.app/)  
+## 📂 Projetos em destaque
+
+### 🔹 FastPrice
+
+Projeto acadêmico de comparação de preços e rotas em tempo real.
+
+* Desenvolvimento web com React.js
+* Integração com APIs REST
+* Testes funcionais e estudos em automação E2E
+
+### 🔹 QAzando
+
+Projeto voltado para testes funcionais e validação de experiência do usuário.
+
+* Navegação e responsividade
+* Validação de fluxos e formulários
+* Testes exploratórios
+
+---
+
+## 🌐 Contato
+
+📧 [ryandoliveira@hotmail.com](mailto:ryandoliveira@hotmail.com)
+💼 LinkedIn: linkedin.com/in/ryan-oliveira-2b54092a1/
+📂 GitHub: github.com/ryandoliveira
